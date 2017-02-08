@@ -13,6 +13,9 @@ hardware:
   2. 3.5 inch touchscreen $22 https://www.amazon.com/Smraza-Resistive-Installing-Tutorials-Interface/dp/B01JLEC4WC/ref=sr_1_6?ie=UTF8&qid=1486367175&sr=8-6&keywords=touch+screen
 
 ## Android
+software:
+  NetJuke (http://www.netjukebox.nl/)
+  
 hardware:
   1. Fire Tablet $40 (https://www.amazon.com/dp/B00TSUGXKE/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=boingboing&linkId=17469648371d4859409a7098147e4810&th=1)
 
